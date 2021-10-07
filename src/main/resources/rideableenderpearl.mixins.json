@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.williambl.rideableenderpearl.rideableenderpearl.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "rideableenderpearl.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
